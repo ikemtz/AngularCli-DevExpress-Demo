@@ -1,4 +1,5 @@
 # ChartTest
+This project was part of my blog entry [Integrating DevExtreme into an Angular CLI project]https://isaacmartinezblog.wordpress.com/2016/11/06/integrating-devexpress-into-an-angular-cli-project/.  
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.18.
 
